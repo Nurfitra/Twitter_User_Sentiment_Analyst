@@ -1,5 +1,5 @@
-# Twitter_User_Sentiment_Analyst
-Tweepy: Twitter for Python!
+# Stream Tweets (Using Tweepy)
+
 ======
 Installation
 ------------
